@@ -23,6 +23,10 @@ This project demonstrates how to deploy an **IBM Watsonx AutoAI model** and cons
 - GitHub (for version control and cloud deployment)
 
 ---
+```toml
+API_KEY = "AMbaW8SPIr5ymevcTnUeAA20wN1uSSr4utMSh6Qi4sBq"
+DEPLOYMENT_URL = "https://au-syd.ml.cloud.ibm.com/ml/v4/deployments/2be32b0b-25bc-440f-9dff-dcfec35506ed/predictions?version=2021-05-01"
+```
 
 ## 🚀 Setup Instructions
 
