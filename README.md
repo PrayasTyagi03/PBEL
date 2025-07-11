@@ -1,4 +1,4 @@
-# 🤖 AUTOAI MOdel Buliding in IBM Watson studio
+# 🤖 AUTOAI Model Buliding in IBM Watson studio
 
 This project demonstrates how to deploy an **IBM Watsonx AutoAI model** and consume it using a **Streamlit app**. The model is trained using Watsonx Studio and deployed via an online endpoint. The Streamlit frontend collects user input, sends it to the model, and displays real-time predictions.
 
@@ -8,9 +8,9 @@ This project demonstrates how to deploy an **IBM Watsonx AutoAI model** and cons
 
 - Trains an ML model using **AutoAI on IBM Watsonx Studio**
 - Deploys the best pipeline as an **Online REST API**
-- Builds a user interface using **Streamlit**
+- Builds a user interface using **IBM CLOUD**
 - Sends input to AutoAI via IBM Cloud API and displays predictions
-- Optional: Hosted on **Streamlit Cloud**
+- Optional: Hosted on **IBM Cloud**
 
 ---
 
