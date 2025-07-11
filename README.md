@@ -1,4 +1,4 @@
-# 🤖 Watsonx AutoAI Streamlit App
+# 🤖 AUTOAI MOdel Buliding in IBM Watson studio
 
 This project demonstrates how to deploy an **IBM Watsonx AutoAI model** and consume it using a **Streamlit app**. The model is trained using Watsonx Studio and deployed via an online endpoint. The Streamlit frontend collects user input, sends it to the model, and displays real-time predictions.
 
