@@ -102,7 +102,10 @@ The project uses **AutoAI**, an automated machine learning (AutoML) tool within 
 
 DEPLOYMENT_URL = "https://au-syd.ml.cloud.ibm.com/ml/v4/deployments/2be32b0b-25bc-440f-9dff-dcfec35506ed/predictions?version=2021-05-01"
 ```
+```toml
 
+DEPLOYMENT_code_URL = "https://colab.research.google.com/drive/1kGglhGkXKS2gD040jSeFZF7fsRbpzwXo#scrollTo=kjQDnCYYJchl"
+```
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
